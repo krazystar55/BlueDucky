@@ -1,4 +1,0 @@
-REM This is a comment and will not run
-STRING ekoahamdutivnasti is king baby
-DELAY 200
-GUI s
