@@ -1,0 +1,14 @@
+REM Opens a private browser to a specific YouTube channel
+DELAY 200
+ESCAPE
+GUI d
+ALT ESCAPE
+GUI b
+DELAY 700
+REM PRIVATE_BROWSER is equal to CTRL + SHIFT + N
+CTRL SHIFT n
+DELAY 700
+STRING  https://www.instagram.com/ekoahamdutivnasti/
+ENTER
+DELAY 300
+
