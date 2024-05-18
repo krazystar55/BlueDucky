@@ -6,8 +6,7 @@
 
 Thanks to all the people for joining US!
 
-![BlueDucky](https://github.com/krazystar55/BlueDucky/assets/130956429/11647367-488d-47a2-8761-e785657349ca)
-
+![start](https://github.com/krazystar55/BlueDucky/assets/130956429/af8afffe-5267-495a-beaf-de5636fd4054)
 
 🚨 CVE-2023-45866 - BlueDucky Implementation (Using DuckyScript)
 
